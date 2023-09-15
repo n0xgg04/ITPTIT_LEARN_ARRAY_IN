@@ -145,9 +145,7 @@ for(int i=0;i<10;i++){
 
 <details>
 <summary> Output </summary>
-<video controls="control" width="100%" height="100%">
-    <source src="output.mov" type="video/mp4">
-</video>
+<img src="./output.gif" alt="Output"/>
 </details>
 
 ### TIPS SỬ DỤNG MẢNG :
